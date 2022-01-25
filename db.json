@@ -28,15 +28,6 @@
       "state": "Neuf"
     },
     {
-      "id": 17,
-      "name": "Computer DELL",
-      "price": 250000,
-      "quantity": 37,
-      "available": true,
-      "selected": false,
-      "state": "Neuf"
-    },
-    {
       "id": 18,
       "name": "HP Printer",
       "price": 110000,
@@ -64,13 +55,13 @@
       "state": "Neuf"
     },
     {
+      "id": 26,
       "name": "Techno Y2",
       "price": "25000",
       "quantity": "5",
       "available": true,
       "selected": true,
-      "state": "Neuf",
-      "id": 26
+      "state": "Occasion"
     },
     {
       "id": 27,
@@ -89,6 +80,15 @@
       "available": true,
       "selected": false,
       "state": "Neuf"
+    },
+    {
+      "name": "DELL 115",
+      "price": 0,
+      "quantity": 0,
+      "available": true,
+      "selected": true,
+      "state": "Neuf",
+      "id": 29
     }
   ]
 }
