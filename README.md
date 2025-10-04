@@ -12,7 +12,8 @@ Forms used for :
 - Updating a product
 - Deleting a product
 - Selecting a product
-- Disabling a product
+- Seeing the Availability of a product
+- Managing the state of a product
 
 ## Technologies
 
