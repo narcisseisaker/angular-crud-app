@@ -18,7 +18,9 @@ Forms used for :
 ## Technologies
 
 - Angular 12
+- TypeScript
 - HTML
+- SCSS
 - Bootstrap
 - 
 ## Application Dependency
